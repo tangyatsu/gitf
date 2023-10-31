@@ -5,9 +5,9 @@ package main
 import (
 	"fmt"
 	flag "github.com/spf13/pflag"
-	"gitlab.com/slon/shad-go/gitfame/internal/format"
-	"gitlab.com/slon/shad-go/gitfame/internal/gitreq"
-	"gitlab.com/slon/shad-go/gitfame/internal/parse"
+	"github.com/tangyatsu/gitfame/internal/format"
+	"github.com/tangyatsu/gitfame/internal/gitreq"
+	"github.com/tangyatsu/gitfame/internal/parse"
 	"os"
 	"sync"
 )

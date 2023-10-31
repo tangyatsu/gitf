@@ -2,8 +2,8 @@ package parse
 
 import (
 	"encoding/json"
-	"gitlab.com/slon/shad-go/gitfame/configs"
-	"gitlab.com/slon/shad-go/gitfame/internal/gitreq"
+	"github.com/tangyatsu/gitfame/configs"
+	"github.com/tangyatsu/gitfame/internal/gitreq"
 	"path/filepath"
 	"sort"
 	"strings"

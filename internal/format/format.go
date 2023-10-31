@@ -4,7 +4,7 @@ import (
 	"encoding/csv"
 	"encoding/json"
 	"fmt"
-	"gitlab.com/slon/shad-go/gitfame/internal/parse"
+	"github.com/tangyatsu/gitfame/internal/parse"
 	"os"
 	"strconv"
 	"text/tabwriter"
